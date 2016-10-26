@@ -113,7 +113,7 @@
                     </TextBlock>
                 </StackPanel>
                 <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" Grid.Row="1">
-                    <Grid Name="MatrixName" HorizontalAlignment="Center">
+                    <Grid Name="Matrix" HorizontalAlignment="Center">
                     </Grid>
                 </ScrollViewer>
             </Grid>
